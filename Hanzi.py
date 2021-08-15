@@ -1,8 +1,8 @@
-#!/usr/bin/python2
+#!/usr/Hanzi.py
 #coding=utf-8
 #The Credit For This Code Goes To Hanzi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -741,7 +741,7 @@ def pilih_super():
 \033[1;96m ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝  ╚═════╝ ╚═════╝ ╚══════╝ ╚═╝ ╚═╝     ╚═╝      
 """
 	print "\033[1;97m«-----------------\033[1;37Hanzi\033[1;97m-----------------»"
-	raw_input("\n\033[1;97m[+]\033[1;97mBack")
+	raw_input("\n\033[1;97m[+]\033[1;97Back")
 	menu()
 
 if __name__ == '__main__':
